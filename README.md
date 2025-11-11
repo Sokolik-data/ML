@@ -39,5 +39,5 @@ Each project focuses on a specific data science task — from data preprocessing
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ML.git
-   cd ML
+   git clone https://github.com/Sokolik-data/Machine_Learning_Projects_Collection.git
+   cd Machine_Learning_Projects_Collection
